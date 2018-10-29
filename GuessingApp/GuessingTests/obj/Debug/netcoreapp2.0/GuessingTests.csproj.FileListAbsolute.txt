@@ -1,0 +1,17 @@
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingTests.deps.json
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingTests.runtimeconfig.json
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingTests.runtimeconfig.dev.json
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingTests.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingTests.pdb
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingApp.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\bin\Debug\netcoreapp2.0\GuessingApp.pdb
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.csprojResolveAssemblyReference.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.csproj.CoreCompileInputs.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.AssemblyInfoInputs.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.AssemblyInfo.cs
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.csproj.CopyComplete
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingTests\obj\Debug\netcoreapp2.0\GuessingTests.pdb

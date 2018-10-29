@@ -1,0 +1,11 @@
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.deps.json
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.runtimeconfig.json
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.runtimeconfig.dev.json
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.pdb
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.csprojResolveAssemblyReference.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.csproj.CoreCompileInputs.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.AssemblyInfoInputs.cache
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.AssemblyInfo.cs
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.dll
+C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.pdb
