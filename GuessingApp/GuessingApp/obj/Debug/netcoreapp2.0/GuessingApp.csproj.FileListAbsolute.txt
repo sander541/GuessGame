@@ -9,3 +9,14 @@ C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\Gues
 C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.AssemblyInfo.cs
 C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.dll
 C:\Users\annul\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.pdb
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.deps.json
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.runtimeconfig.json
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.runtimeconfig.dev.json
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.dll
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\bin\Debug\netcoreapp2.0\GuessingApp.pdb
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.csprojResolveAssemblyReference.cache
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.csproj.CoreCompileInputs.cache
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.AssemblyInfoInputs.cache
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.AssemblyInfo.cs
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.dll
+C:\Users\annul\Source\Repos\GuessGame\GuessingApp\GuessingApp\obj\Debug\netcoreapp2.0\GuessingApp.pdb

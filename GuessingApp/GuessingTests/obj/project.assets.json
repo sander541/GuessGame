@@ -5747,11 +5747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annul\\source\\repos\\GuessingApp\\GuessingTests\\GuessingTests.csproj",
+      "projectUniqueName": "C:\\Users\\annul\\Source\\Repos\\GuessGame\\GuessingApp\\GuessingTests\\GuessingTests.csproj",
       "projectName": "GuessingTests",
-      "projectPath": "C:\\Users\\annul\\source\\repos\\GuessingApp\\GuessingTests\\GuessingTests.csproj",
+      "projectPath": "C:\\Users\\annul\\Source\\Repos\\GuessGame\\GuessingApp\\GuessingTests\\GuessingTests.csproj",
       "packagesPath": "C:\\Users\\annul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annul\\source\\repos\\GuessingApp\\GuessingTests\\obj\\",
+      "outputPath": "C:\\Users\\annul\\Source\\Repos\\GuessGame\\GuessingApp\\GuessingTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -5772,8 +5772,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\annul\\source\\repos\\GuessingApp\\GuessingApp\\GuessingApp.csproj": {
-              "projectPath": "C:\\Users\\annul\\source\\repos\\GuessingApp\\GuessingApp\\GuessingApp.csproj"
+            "C:\\Users\\annul\\Source\\Repos\\GuessGame\\GuessingApp\\GuessingApp\\GuessingApp.csproj": {
+              "projectPath": "C:\\Users\\annul\\Source\\Repos\\GuessGame\\GuessingApp\\GuessingApp\\GuessingApp.csproj"
             }
           }
         }
